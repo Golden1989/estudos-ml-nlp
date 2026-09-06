@@ -6,3 +6,4 @@ venv/
 env/
 .DS_Store
 *.egg-info/
+pcc_prompt_injection/data/
